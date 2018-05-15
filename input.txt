@@ -1,0 +1,1 @@
+a tree structure is a way of representing the hierarchical nature of a structure in a graphical from a binary tree is a tree
